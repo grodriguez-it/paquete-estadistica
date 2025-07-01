@@ -1,7 +1,6 @@
 const { ChartJSNodeCanvas } = require('chartjs-node-canvas');
 const fs = require('fs');
 
-
 const width = 800;
 const height = 600;
 const chartJSNodeCanvas = new ChartJSNodeCanvas({ width, height });
